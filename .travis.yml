@@ -1,2 +1,2 @@
 language: csharp
-solution: AFramework\AFramework.sln
+solution: .\AFramework\AFramework.sln
